@@ -1,0 +1,24 @@
+.heading{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  color:darkolivegreen;
+  font-display: solid;
+}
+.logo{
+  width: 200px;
+  height: 50px;
+  margin-top: 0px;
+  margin-left: 45%;
+ 
+}
+.button1{
+  margin-top: 115px;
+  color:cornflowerblue
+}
+.grid {
+    margin-top: 22px;
+    margin-left: 10Px;
+    margin-right: 10px;
+    
+  }
+  
